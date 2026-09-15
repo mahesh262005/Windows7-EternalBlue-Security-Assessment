@@ -59,5 +59,11 @@ An unauthenticated advanced vulnerability scan identified **18 total findings**.
 ## Scope Note
 This assessment was performed in a fully isolated lab environment against a virtual machine distributed for security training and research purposes. No production systems were involved.
 
+## 📄 Security Assessment Report
+
+### Windows 7 EternalBlue Security Assessment
+
+[🔗 View & Download Full Report](https://mahesh262005.github.io/Windows7-EternalBlue-Security-Assessment/)
+
 ***
 **Prepared by:** Mahesh Ade — Cybersecurity Student
